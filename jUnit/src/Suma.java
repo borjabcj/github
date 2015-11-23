@@ -12,4 +12,12 @@ public class Suma {
        int resultado = num1 + num2;
        return resultado;
    }
+   public int resta() {
+       int resultado = num1 - num2;
+       return resultado;
+   }
+   public int multiplicacio() {
+       int resultado = num1 * num2;
+       return resultado;
+   }
 }
